@@ -17,6 +17,7 @@
 
 ## Conclusions
 - Please refer to the attached PDF presentation in the repository for the conclusions drawn
+- Please make sure you mark the notebook as trusted in order to see all the plotly curves
 
 
 ## Technologies Used
