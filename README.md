@@ -1,5 +1,6 @@
 # Lending Club Case Study
 > Lending Club is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The company can utilise this knowledge for its portfolio and risk assessment. 
+> (Please make sure you mark the notebook as trusted in order to see all the plotly curves)
 
 
 ## Table of Contents
